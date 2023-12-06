@@ -48,4 +48,4 @@ como redirecionamento de páginas e modo escuro.
 [ChatGpt](https://chat.openai.com/)
 
 ## Autores 
-``GABRIELLA INNOCENCIO GONCALVES DOS SANTOS``
+[GABRIELLA INNOCENCIO GONCALVES DOS SANTOS](https://instagram.com/__gabriellasaantos?igshid=NGVhN2U2NjQ0Yg==)
