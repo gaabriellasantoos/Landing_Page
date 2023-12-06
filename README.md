@@ -12,7 +12,7 @@
 
 #  Enchanted Coffee 🌟☕
 
-![Capa do projeto]()
+![Capa do projeto](red.img.png)
 
 ## Introdução 
 Este repositório contém o código-fonte de uma landing page para o Enchanted Coffee, um espaço online que proporciona uma experiência mágica ao redor do universo do café.
